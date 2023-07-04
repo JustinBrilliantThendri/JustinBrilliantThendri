@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 ## About me
 
+<ul>
+  <li>I'm a beginner back-end programmer</li>
+  <li>Currently, I'm learning HTML, CSS, JavaScript, PHP, MySQL</li>
+</ul>
+
 <img src="https://github-readme-stats.vercel.app/api?username=JustinBrilliantThendri&show_icons=true&theme=light">
 
 <hr>
