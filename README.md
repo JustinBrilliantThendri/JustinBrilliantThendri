@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li>I'm a beginner web programmer</li>
-  <li>Currently, I'm learning HTML, CSS, JavaScript, PHP, MySQL</li>
+  <li>Currently, I'm learning HTML, CSS, JavaScript, PHP, MySQL, Python</li>
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JustinBrilliantThendri&show_icons=true&theme=light">
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </div>
   <div>
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
