@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 
 <ul>
-  <li>I'm a beginner web programmer</li>
+  <li>I'm a beginner backend developer</li>
   <li>Currently, I'm learning HTML, CSS, JavaScript, PHP, MySQL, Node.js, Laravel</li>
 </ul>
 
