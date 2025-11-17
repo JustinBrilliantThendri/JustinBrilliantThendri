@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <li>Currently, I'm learning HTML, CSS, JavaScript, PHP, MySQL, Node.js, Laravel, Golang</li>
 </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JustinBrilliantThendri&show_icons=true&theme=light">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinBrilliantThendri)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
